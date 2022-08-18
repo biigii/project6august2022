@@ -1,0 +1,13 @@
+p.column {
+   width: 33.33%;
+   /* border: 1px solid #000; */
+   float: right;
+   padding: 1%;
+}
+
+p.col {
+  float: left;
+  width: 20%; /* 80% */
+  margin: 2.5%; /* 20% */
+  /* border: 1px solid #f22; */
+}
