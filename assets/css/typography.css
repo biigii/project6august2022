@@ -4,3 +4,19 @@ h1 {
   margin-bottom: 150px; */
   margin: 50px 0 150px 0;
 }
+
+h3 {
+  text-align: center;
+  margin: 20px 0 50px 0;
+}
+
+.navigation a {
+    color: #fff;
+    /* margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 50px; */
+    margin: 40px 15px 0 15px;
+    display: inline-block;
+    text-decoration: none;
+    text-transform: uppercase;
+}

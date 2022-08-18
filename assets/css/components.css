@@ -1,4 +1,17 @@
-section {
-  border: 5px solid #e07338;
-  background-color: rgb(173, 231, 74);
+img {
+  width: 100%;
+}
+
+footer {
+  height: 200px;
+  background-color: #1d1919;
+}
+
+header {
+  height: 100px;
+  background-color: #1d1919;
+}
+
+.navigation {
+  text-align: center;
 }
